@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "express-fileupload": "^1.1.4",
+    "express-fileupload": "^1.1.9",
     "lowdb": "^1.0.0",
     "nodemon": "^1.18.11",
     "sha1": "^1.1.1"
