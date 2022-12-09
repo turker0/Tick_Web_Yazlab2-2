@@ -9,7 +9,7 @@
   "author": "atagulalan",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "express-fileupload": "^1.1.4",
     "lowdb": "^1.0.0",
     "nodemon": "^1.18.11",
